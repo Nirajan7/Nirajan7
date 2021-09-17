@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nirajan7
+- 👋 Hi, I’m @Nirajan.
 - 👀 I’m interested in ethical hacking and coding.
 - 🌱 I’m currently learning ethical hacking.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on hacking.
 - 📫 How to reach me ...
 
 <!---
